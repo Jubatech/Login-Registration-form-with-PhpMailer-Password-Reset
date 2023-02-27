@@ -3,3 +3,14 @@
 - Use the userform.sql file, run it directly on the xampp database to get the actual tables for this code.
 - Ensure you use an active gmail account.
 - Incase the email  mailtest8782@gmail.com on mail.php file fails to send code, you can create yours by heading to manage my account (your email account) then security and finally on the 2 step verification and app passwords section. Ensure the toggle button on 2 step verification is on then generate a password which google will show you. Copy the password into your mail.php file in the password area. 
+
+
+
+
+#NOTES:
+I watn to change Email and and Password:
+
+  $mail->Username   = "mailtest8782@gmail.com";
+  $mail->Password   = "lnbiamwaqeodoffu"; 
+
+Can you please help.
